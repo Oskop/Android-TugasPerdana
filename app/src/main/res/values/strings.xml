@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasPerdana</string>
+    <string name="str_goride">GO-RIDE</string>
+    <string name="str_gomart">GO-MART</string>
+    <string name="str_gofood">GO-FOOD</string>
+    <string name="str_gosend">GO-SEND</string>
+    <string name="str_pick_a_service">PICK A SERVICE</string>
+</resources>
