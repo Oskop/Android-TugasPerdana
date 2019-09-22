@@ -5,4 +5,4 @@ Merupakan UI atau tampilan aplikasi android sederhana
 
 Berikut adalah tampilannya
 
-![Tampilan](https://raw.githubusercontent.com/Oskop/Android-TugasPerdana/Screenshot_1569148141.png)
+![Tampilan](https://raw.githubusercontent.com/Oskop/Android-TugasPerdana/blob/master/Screenshot_1569148141.png)
