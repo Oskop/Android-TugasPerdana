@@ -3,9 +3,15 @@ UI Gojek Abal-Abalan
 
 Merupakan UI atau tampilan aplikasi android sederhana
 
-Nama     :  Mokhamad Wijaya \n
-NIM      :  17090092 \n
-Kelas    :  5D \n
+Nama     :  Mokhamad Wijaya
+
+
+NIM      :  17090092
+
+
+Kelas    :  5D
+
+
 
 Berikut adalah tampilannya
 
